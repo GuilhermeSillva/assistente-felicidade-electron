@@ -1,0 +1,22 @@
+{
+  "name": "assistente-felicidade-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeSillva/assistente-felicidade-electron.git"
+  },
+  "author": "Caffekon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeSillva/assistente-felicidade-electron/issues"
+  },
+  "homepage": "https://github.com/GuilhermeSillva/assistente-felicidade-electron#readme",
+  "dependencies": {
+    "electron": "^2.0.0"
+  }
+}
